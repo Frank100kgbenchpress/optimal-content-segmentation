@@ -1,0 +1,837 @@
+[
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "En la actualidad, la industria de los videojuegos se encuentra en una era de transición hacia la era de los juegos en la nube y la jugabilidad en línea. Los juegos en la nube permiten a los jugadores acceder a una amplia variedad de títulos sin necesidad de instalarlos en sus dispositivos, y la jugabilidad en línea ha permitido a los desarrolladores crear experiencias de juego más sociales y compartidas.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 1,
+        "texto": "La llegada de las consolas de sexta generación, como la Sony PlayStation y la Nintendo 64, marcó un punto de inflexión en la historia de los videojuegos. Estas consolas permitieron a los desarrolladores crear juegos con gráficos 3D y sonido surround",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 2,
+        "texto": "La adopción de la tecnología de la realidad virtual (RV) y la realidad aumentada (RA) en la industria de los videojuegos ha sido un paso importante en la evolución de la experiencia de juego. Estas tecnologías permiten a los jugadores sumergirse en mundos virtuales más inmersivos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 3,
+        "texto": "La evolución de los videojuegos ha sido un proceso continuo desde sus inicios en la década de 1970. En sus primeras etapas, los videojuegos se centraban en simples mecánicas de juego y gráficos basicos. Sin embargo, con el tiempo, los desarrolladores comenzaron a innovar y a agregar nuevas características a los juegos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 4,
+        "texto": "El Imperio Romano alcanzó su punto máximo en el siglo I d.C. bajo el reinado de emperadores como Augusto y Trajano, quienes implementaron políticas de paz, prosperidad y expansión territorial. Durante este período, Roma se convirtió en una sociedad cosmopolita y próspera, con una economía basada en la agricultura, el comercio y la industria.",
+        "tema_real": "Historia del Imperio Romano"
+      },
+      {
+        "id": 5,
+        "texto": "La República Romana se estableció en el siglo III a.C. después de la muerte del último rey Romano y se caracterizó por la existencia de una asamblea de ciudadanos elegidos para gobernar el estado. Durante este período, Roma experimentó un rápido crecimiento y se convirtió en una potencia militar y económica dominante en el Mediterráneo.",
+        "tema_real": "Historia del Imperio Romano"
+      },
+      {
+        "id": 6,
+        "texto": "El Imperio Romano se originó en la península itálica alrededor del siglo VIII a.C. y se expandió rápidamente mediante conquistas militares y alianzas políticas. Su primer gran imperio se estableció en el siglo III a.C., cuando el rey Romanos conquistó la península itálica y luego se expandió a través de la región del Mediterráneo.",
+        "tema_real": "Historia del Imperio Romano"
+      },
+      {
+        "id": 7,
+        "texto": "Por último, es importante mencionar la importancia de la planificación y la evaluación continua en las estrategias de inversión financiera. Los inversores deben revisar y ajustar su estrategia periódicamente para asegurarse de que esté alineada con sus objetivos y necesidades cambiantes.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 8,
+        "texto": "Entre las estrategias de inversión más populares se encuentran la inversión en acciones, bonos y fondos mutuos. La inversión en acciones tiene el potencial de generar altas ganancias, pero también conlleva un mayor riesgo. Por otro lado, la inversión en bonos ofrece rendimientos más estables pero con menores posibilidades de crecimiento.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 9,
+        "texto": "Las estrategias de inversión financiera son planes cuidadosamente diseñados para lograr objetivos financieros a largo plazo. Implican la asignación de recursos a diferentes activos con el objetivo de maximizar las ganancias y minimizar las pérdidas. Cada estrategia requiere un enfoque único y debe estar alineado con las necesidades y objetivos del inversor.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 10,
+        "texto": "La cocina italiana también tiene un lado dulce, con recetas como el tiramisù. Este postre se hace con café, mascarpone y chocolate, y se cubre con cacao en polvo. El tiramisù es un postre que se come en todo el mundo y es perfecto para terminar una cena italiana.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 11,
+        "texto": "La receta de lasaña es otra clásica de la cocina italiana. Se hace con capas de pasta, carne y queso, y se cocina en el horno hasta que está dorada y crujiente. La lasaña es un plato que se come en todo el mundo y es perfecto para una cena especial.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 12,
+        "texto": "La cocina italiana es famosa por sus platos sencillos pero sabrosos. Una de las recetas más populares es la pasta carbonara, que se hace con espaguetis, bacon o panceta, huevos y queso parmesano. Esta receta es fácil de preparar y es perfecta para un domingo por la tarde.",
+        "tema_real": "Recetas de cocina italiana"
+      }
+    ],
+    "num_elementos": 13,
+    "temas_presentes": [
+      "Evolución de los videojuegos",
+      "Historia del Imperio Romano",
+      "Estrategias de inversión financiera",
+      "Recetas de cocina italiana"
+    ],
+    "cortes_ground_truth": [
+      3,
+      6,
+      9
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 3
+      },
+      {
+        "inicio": 4,
+        "fin": 6
+      },
+      {
+        "inicio": 7,
+        "fin": 9
+      },
+      {
+        "inicio": 10,
+        "fin": 12
+      }
+    ],
+    "id": "inst_000"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "La ética en la IA se refiere a la consideración de los impactos morales y sociales de la creación y uso de sistemas de IA. Esto incluye la protección de la privacidad, la prevención de sesgos y la garantía de que los sistemas de IA sean responsables y transparentes.",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 1,
+        "texto": "La Inteligencia Artificial (IA) ha revolucionado la forma en que interactuamos con la tecnología, pero también ha planteado serias preocupaciones éticas. La falta de transparencia en las decisiones tomadas por los algoritmos de IA puede generar desconfianza y miedo en la población.",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 2,
+        "texto": "La ética en la IA también se relaciona con la cuestión de la autoría y la responsabilidad. ¿Quién es responsable de las decisiones tomadas por un sistema de IA? ¿Es el desarrollador, el dueño del sistema o alguien más?",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 3,
+        "texto": "Las estrategias de inversión financiera son planes cuidadosamente diseñados para lograr objetivos financieros a largo plazo. Implican la asignación de recursos a diferentes activos con el objetivo de maximizar las ganancias y minimizar las pérdidas. Cada estrategia requiere un enfoque único y debe estar alineado con las necesidades y objetivos del inversor.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 4,
+        "texto": "La diversificación es una estrategia fundamental en la inversión financiera. Implica distribuir los recursos entre diferentes activos para reducir la exposición a posibles riesgos y aumentar la estabilidad del portafolio. Esto puede incluir la inversión en diferentes sectores, regiones o tipos de activos.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 5,
+        "texto": "Entre las estrategias de inversión más populares se encuentran la inversión en acciones, bonos y fondos mutuos. La inversión en acciones tiene el potencial de generar altas ganancias, pero también conlleva un mayor riesgo. Por otro lado, la inversión en bonos ofrece rendimientos más estables pero con menores posibilidades de crecimiento.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 6,
+        "texto": "Los inversores también pueden considerar estrategias de inversión activa, como la inversión en fondos de capital riesgo o la compra de acciones en empresas en crecimiento. Estas estrategias requieren una mayor participación y conocimiento del mercado, pero pueden ofrecer mayores retornos a largo plazo.",
+        "tema_real": "Estrategias de inversión financiera"
+      }
+    ],
+    "num_elementos": 7,
+    "temas_presentes": [
+      "Inteligencia Artificial y ética",
+      "Estrategias de inversión financiera"
+    ],
+    "cortes_ground_truth": [
+      2
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 2
+      },
+      {
+        "inicio": 3,
+        "fin": 6
+      }
+    ],
+    "id": "inst_001"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "Las estrategias de inversión financiera son planes cuidadosamente diseñados para lograr objetivos financieros a largo plazo. Implican la asignación de recursos a diferentes activos con el objetivo de maximizar las ganancias y minimizar las pérdidas. Cada estrategia requiere un enfoque único y debe estar alineado con las necesidades y objetivos del inversor.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 1,
+        "texto": "Por último, es importante mencionar la importancia de la planificación y la evaluación continua en las estrategias de inversión financiera. Los inversores deben revisar y ajustar su estrategia periódicamente para asegurarse de que esté alineada con sus objetivos y necesidades cambiantes.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 2,
+        "texto": "Los inversores también pueden considerar estrategias de inversión activa, como la inversión en fondos de capital riesgo o la compra de acciones en empresas en crecimiento. Estas estrategias requieren una mayor participación y conocimiento del mercado, pero pueden ofrecer mayores retornos a largo plazo.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 3,
+        "texto": "La teoría cuántica también introduce el concepto de superposición y entrelazamiento, que permiten que las partículas estén en múltiples estados al mismo tiempo y que se comuniquen instantáneamente entre sí, independientemente de la distancia que las separe.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 4,
+        "texto": "La aplicación de la física cuántica en la vida cotidiana es cada vez más prominente, desde los dispositivos de resonancia magnética nuclear (RMN) en la medicina hasta los procesadores cuánticos en la computación. La investigación en este campo sigue siendo activa y prometedora, con nuevas aplicaciones y descubrimientos esperados en el futuro cercano.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 5,
+        "texto": "Uno de los principios fundamentales de la física cuántica es la mecánica cuántica, que describe cómo las partículas se comportan en función de su estado de energía y momento. Esto se refleja en el principio de incertidumbre, que establece que no podemos medir simultáneamente ciertas propiedades de una partícula con precisión infinita.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 6,
+        "texto": "La física cuántica ha sido confirmada experimentalmente en múltiples ocasiones, desde la caída de la partícula de Compton hasta la detección de ondas de partículas en los experimentos de difracción. Estos hallazgos han llevado a una comprensión más profunda de la naturaleza y han abierto nuevas posibilidades para la investigación y la tecnología.",
+        "tema_real": "Física cuántica para principiantes"
+      }
+    ],
+    "num_elementos": 7,
+    "temas_presentes": [
+      "Estrategias de inversión financiera",
+      "Física cuántica para principiantes"
+    ],
+    "cortes_ground_truth": [
+      2
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 2
+      },
+      {
+        "inicio": 3,
+        "fin": 6
+      }
+    ],
+    "id": "inst_002"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "El descanso y la recuperación son tan importantes como el entrenamiento en sí mismo. Los corredores deben permitir que sus músculos y pulmones se recuperen adecuadamente después de cada entrenamiento. Esto puede incluir técnicas de estiramiento, masaje y descanso.",
+        "tema_real": "Entrenamiento de maratón"
+      },
+      {
+        "id": 1,
+        "texto": "La clave para un entrenamiento exitoso es la gradualidad. Los corredores deben comenzar con distancias cortas y aumentar progresivamente la longitud de sus entrenamientos. Esto les permite acostumbrar sus músculos y pulmones a la carga física y reducir el riesgo de lesiones.",
+        "tema_real": "Entrenamiento de maratón"
+      },
+      {
+        "id": 2,
+        "texto": "La arquitectura moderna en ciudades busca equilibrar la funcionalidad y la estética. Incorpora elementos innovadores como la iluminación eficiente, materiales sostenibles y diseños que fomentan la interacción social. Sin embargo, a menudo se critica por priorizar el estilo sobre la consideración del entorno y la comunidad.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 3,
+        "texto": "A medida que las ciudades crecen y se vuelven más complejas, la arquitectura moderna debe adaptarse para satisfacer las necesidades cambiantes de sus habitantes. Esto implica innovar y experimentar con nuevas formas de construir y diseñar espacios públicos y privados.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 4,
+        "texto": "Entre las estrategias de inversión más populares se encuentran la inversión en acciones, bonos y fondos mutuos. La inversión en acciones tiene el potencial de generar altas ganancias, pero también conlleva un mayor riesgo. Por otro lado, la inversión en bonos ofrece rendimientos más estables pero con menores posibilidades de crecimiento.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 5,
+        "texto": "La diversificación es una estrategia fundamental en la inversión financiera. Implica distribuir los recursos entre diferentes activos para reducir la exposición a posibles riesgos y aumentar la estabilidad del portafolio. Esto puede incluir la inversión en diferentes sectores, regiones o tipos de activos.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 6,
+        "texto": "Por último, es importante mencionar la importancia de la planificación y la evaluación continua en las estrategias de inversión financiera. Los inversores deben revisar y ajustar su estrategia periódicamente para asegurarse de que esté alineada con sus objetivos y necesidades cambiantes.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 7,
+        "texto": "Las estrategias de inversión financiera son planes cuidadosamente diseñados para lograr objetivos financieros a largo plazo. Implican la asignación de recursos a diferentes activos con el objetivo de maximizar las ganancias y minimizar las pérdidas. Cada estrategia requiere un enfoque único y debe estar alineado con las necesidades y objetivos del inversor.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 8,
+        "texto": "La evolución de los videojuegos ha sido un proceso continuo desde sus inicios en la década de 1970. En sus primeras etapas, los videojuegos se centraban en simples mecánicas de juego y gráficos basicos. Sin embargo, con el tiempo, los desarrolladores comenzaron a innovar y a agregar nuevas características a los juegos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 9,
+        "texto": "En la actualidad, la industria de los videojuegos se encuentra en una era de transición hacia la era de los juegos en la nube y la jugabilidad en línea. Los juegos en la nube permiten a los jugadores acceder a una amplia variedad de títulos sin necesidad de instalarlos en sus dispositivos, y la jugabilidad en línea ha permitido a los desarrolladores crear experiencias de juego más sociales y compartidas.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 10,
+        "texto": "La llegada de las consolas de sexta generación, como la Sony PlayStation y la Nintendo 64, marcó un punto de inflexión en la historia de los videojuegos. Estas consolas permitieron a los desarrolladores crear juegos con gráficos 3D y sonido surround",
+        "tema_real": "Evolución de los videojuegos"
+      }
+    ],
+    "num_elementos": 11,
+    "temas_presentes": [
+      "Entrenamiento de maratón",
+      "Arquitectura moderna en ciudades",
+      "Estrategias de inversión financiera",
+      "Evolución de los videojuegos"
+    ],
+    "cortes_ground_truth": [
+      1,
+      3,
+      7
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 1
+      },
+      {
+        "inicio": 2,
+        "fin": 3
+      },
+      {
+        "inicio": 4,
+        "fin": 7
+      },
+      {
+        "inicio": 8,
+        "fin": 10
+      }
+    ],
+    "id": "inst_003"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "La adopción de la tecnología de la realidad virtual (RV) y la realidad aumentada (RA) en la industria de los videojuegos ha sido un paso importante en la evolución de la experiencia de juego. Estas tecnologías permiten a los jugadores sumergirse en mundos virtuales más inmersivos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 1,
+        "texto": "La evolución de los videojuegos ha sido un proceso continuo desde sus inicios en la década de 1970. En sus primeras etapas, los videojuegos se centraban en simples mecánicas de juego y gráficos basicos. Sin embargo, con el tiempo, los desarrolladores comenzaron a innovar y a agregar nuevas características a los juegos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 2,
+        "texto": "Una de las grandes innovaciones en la industria de los videojuegos fue la introducción de la consola de videojuegos. La primera consola de videojuegos, la Magnavox Odyssey, se lanzó en 1972 y permitió a los jugadores experimentar juegos de alta calidad en sus propias casas.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 3,
+        "texto": "La llegada de las consolas de sexta generación, como la Sony PlayStation y la Nintendo 64, marcó un punto de inflexión en la historia de los videojuegos. Estas consolas permitieron a los desarrolladores crear juegos con gráficos 3D y sonido surround",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 4,
+        "texto": "La tecnología juega un papel cada vez más importante en la arquitectura moderna. Los edificios inteligentes y los sistemas de energía renovable están revolucionando la forma en que vivimos y trabajamos en las ciudades.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 5,
+        "texto": "La arquitectura moderna también debe abordar los desafíos de la vivienda urbana, como la escasez de espacios y la congestión. Los diseñadores buscan soluciones creativas que optimicen el uso del espacio y promuevan la calidad de vida de los residentes.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 6,
+        "texto": "El impacto de la arquitectura moderna en el paisaje urbano es significativo. Algunos edificios se integran perfectamente con el entorno, mientras que otros pueden parecer desconectados y poco respetuosos con el contexto histórico y cultural de la zona.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 7,
+        "texto": "La teoría cuántica también introduce el concepto de superposición y entrelazamiento, que permiten que las partículas estén en múltiples estados al mismo tiempo y que se comuniquen instantáneamente entre sí, independientemente de la distancia que las separe.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 8,
+        "texto": "La aplicación de la física cuántica en la vida cotidiana es cada vez más prominente, desde los dispositivos de resonancia magnética nuclear (RMN) en la medicina hasta los procesadores cuánticos en la computación. La investigación en este campo sigue siendo activa y prometedora, con nuevas aplicaciones y descubrimientos esperados en el futuro cercano.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 9,
+        "texto": "La física cuántica es una rama de la física que se enfoca en el comportamiento de las partículas a nivel atómico y subatómico. Desarrollada en el siglo XX, esta disciplina ha revolucionado nuestra comprensión del universo y ha llevado a innovaciones tecnológicas como la computación cuántica y los dispositivos de almacenamiento de datos.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 10,
+        "texto": "La física cuántica ha sido confirmada experimentalmente en múltiples ocasiones, desde la caída de la partícula de Compton hasta la detección de ondas de partículas en los experimentos de difracción. Estos hallazgos han llevado a una comprensión más profunda de la naturaleza y han abierto nuevas posibilidades para la investigación y la tecnología.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 11,
+        "texto": "La IA puede ser utilizada para mejorar la vida de las personas, pero también puede ser utilizada para fines maliciosos, como la creación de armas de destrucción masiva o la manipulación de la opinión pública. Es importante desarrollar normas y regulaciones para prevenir el uso indebido de la IA.",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 12,
+        "texto": "La creciente dependencia de la IA en nuestra vida diaria plantea la pregunta de si estamos en el camino correcto. ¿Estamos creando una sociedad donde la IA sea la que tome decisiones importantes, o estamos creando una sociedad donde la IA sea una herramienta para mejorar la vida de las personas?",
+        "tema_real": "Inteligencia Artificial y ética"
+      }
+    ],
+    "num_elementos": 13,
+    "temas_presentes": [
+      "Evolución de los videojuegos",
+      "Arquitectura moderna en ciudades",
+      "Física cuántica para principiantes",
+      "Inteligencia Artificial y ética"
+    ],
+    "cortes_ground_truth": [
+      3,
+      6,
+      10
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 3
+      },
+      {
+        "inicio": 4,
+        "fin": 6
+      },
+      {
+        "inicio": 7,
+        "fin": 10
+      },
+      {
+        "inicio": 11,
+        "fin": 12
+      }
+    ],
+    "id": "inst_004"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "En la actualidad, la industria de los videojuegos se encuentra en una era de transición hacia la era de los juegos en la nube y la jugabilidad en línea. Los juegos en la nube permiten a los jugadores acceder a una amplia variedad de títulos sin necesidad de instalarlos en sus dispositivos, y la jugabilidad en línea ha permitido a los desarrolladores crear experiencias de juego más sociales y compartidas.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 1,
+        "texto": "La adopción de la tecnología de la realidad virtual (RV) y la realidad aumentada (RA) en la industria de los videojuegos ha sido un paso importante en la evolución de la experiencia de juego. Estas tecnologías permiten a los jugadores sumergirse en mundos virtuales más inmersivos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 2,
+        "texto": "La llegada de las consolas de sexta generación, como la Sony PlayStation y la Nintendo 64, marcó un punto de inflexión en la historia de los videojuegos. Estas consolas permitieron a los desarrolladores crear juegos con gráficos 3D y sonido surround",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 3,
+        "texto": "La teoría cuántica también introduce el concepto de superposición y entrelazamiento, que permiten que las partículas estén en múltiples estados al mismo tiempo y que se comuniquen instantáneamente entre sí, independientemente de la distancia que las separe.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 4,
+        "texto": "La aplicación de la física cuántica en la vida cotidiana es cada vez más prominente, desde los dispositivos de resonancia magnética nuclear (RMN) en la medicina hasta los procesadores cuánticos en la computación. La investigación en este campo sigue siendo activa y prometedora, con nuevas aplicaciones y descubrimientos esperados en el futuro cercano.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 5,
+        "texto": "La cocina italiana también tiene un lado dulce, con recetas como el tiramisù. Este postre se hace con café, mascarpone y chocolate, y se cubre con cacao en polvo. El tiramisù es un postre que se come en todo el mundo y es perfecto para terminar una cena italiana.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 6,
+        "texto": "La cocina italiana es famosa por sus platos sencillos pero sabrosos. Una de las recetas más populares es la pasta carbonara, que se hace con espaguetis, bacon o panceta, huevos y queso parmesano. Esta receta es fácil de preparar y es perfecta para un domingo por la tarde.",
+        "tema_real": "Recetas de cocina italiana"
+      }
+    ],
+    "num_elementos": 7,
+    "temas_presentes": [
+      "Evolución de los videojuegos",
+      "Física cuántica para principiantes",
+      "Recetas de cocina italiana"
+    ],
+    "cortes_ground_truth": [
+      2,
+      4
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 2
+      },
+      {
+        "inicio": 3,
+        "fin": 4
+      },
+      {
+        "inicio": 5,
+        "fin": 6
+      }
+    ],
+    "id": "inst_005"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "La física cuántica es una rama de la física que se enfoca en el comportamiento de las partículas a nivel atómico y subatómico. Desarrollada en el siglo XX, esta disciplina ha revolucionado nuestra comprensión del universo y ha llevado a innovaciones tecnológicas como la computación cuántica y los dispositivos de almacenamiento de datos.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 1,
+        "texto": "Uno de los principios fundamentales de la física cuántica es la mecánica cuántica, que describe cómo las partículas se comportan en función de su estado de energía y momento. Esto se refleja en el principio de incertidumbre, que establece que no podemos medir simultáneamente ciertas propiedades de una partícula con precisión infinita.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 2,
+        "texto": "La teoría cuántica también introduce el concepto de superposición y entrelazamiento, que permiten que las partículas estén en múltiples estados al mismo tiempo y que se comuniquen instantáneamente entre sí, independientemente de la distancia que las separe.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 3,
+        "texto": "La cocina italiana también tiene un lado dulce, con recetas como el tiramisù. Este postre se hace con café, mascarpone y chocolate, y se cubre con cacao en polvo. El tiramisù es un postre que se come en todo el mundo y es perfecto para terminar una cena italiana.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 4,
+        "texto": "Otra receta clásica de la cocina italiana es la pizza margherita. Se hace con harina de trigo, agua, sal y levadura, y se cubre con tomate, mozzarella y hierbas frescas. La pizza margherita es un plato que se come en todo el mundo y es ideal para una cena rápida.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 5,
+        "texto": "La receta de lasaña es otra clásica de la cocina italiana. Se hace con capas de pasta, carne y queso, y se cocina en el horno hasta que está dorada y crujiente. La lasaña es un plato que se come en todo el mundo y es perfecto para una cena especial.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 6,
+        "texto": "En la actualidad, la industria de los videojuegos se encuentra en una era de transición hacia la era de los juegos en la nube y la jugabilidad en línea. Los juegos en la nube permiten a los jugadores acceder a una amplia variedad de títulos sin necesidad de instalarlos en sus dispositivos, y la jugabilidad en línea ha permitido a los desarrolladores crear experiencias de juego más sociales y compartidas.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 7,
+        "texto": "La adopción de la tecnología de la realidad virtual (RV) y la realidad aumentada (RA) en la industria de los videojuegos ha sido un paso importante en la evolución de la experiencia de juego. Estas tecnologías permiten a los jugadores sumergirse en mundos virtuales más inmersivos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 8,
+        "texto": "La arquitectura moderna en ciudades busca equilibrar la funcionalidad y la estética. Incorpora elementos innovadores como la iluminación eficiente, materiales sostenibles y diseños que fomentan la interacción social. Sin embargo, a menudo se critica por priorizar el estilo sobre la consideración del entorno y la comunidad.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 9,
+        "texto": "La tecnología juega un papel cada vez más importante en la arquitectura moderna. Los edificios inteligentes y los sistemas de energía renovable están revolucionando la forma en que vivimos y trabajamos en las ciudades.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 10,
+        "texto": "El impacto de la arquitectura moderna en el paisaje urbano es significativo. Algunos edificios se integran perfectamente con el entorno, mientras que otros pueden parecer desconectados y poco respetuosos con el contexto histórico y cultural de la zona.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      }
+    ],
+    "num_elementos": 11,
+    "temas_presentes": [
+      "Física cuántica para principiantes",
+      "Recetas de cocina italiana",
+      "Evolución de los videojuegos",
+      "Arquitectura moderna en ciudades"
+    ],
+    "cortes_ground_truth": [
+      2,
+      5,
+      7
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 2
+      },
+      {
+        "inicio": 3,
+        "fin": 5
+      },
+      {
+        "inicio": 6,
+        "fin": 7
+      },
+      {
+        "inicio": 8,
+        "fin": 10
+      }
+    ],
+    "id": "inst_006"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "La diversificación es una estrategia fundamental en la inversión financiera. Implica distribuir los recursos entre diferentes activos para reducir la exposición a posibles riesgos y aumentar la estabilidad del portafolio. Esto puede incluir la inversión en diferentes sectores, regiones o tipos de activos.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 1,
+        "texto": "Los inversores también pueden considerar estrategias de inversión activa, como la inversión en fondos de capital riesgo o la compra de acciones en empresas en crecimiento. Estas estrategias requieren una mayor participación y conocimiento del mercado, pero pueden ofrecer mayores retornos a largo plazo.",
+        "tema_real": "Estrategias de inversión financiera"
+      },
+      {
+        "id": 2,
+        "texto": "La física cuántica ha sido confirmada experimentalmente en múltiples ocasiones, desde la caída de la partícula de Compton hasta la detección de ondas de partículas en los experimentos de difracción. Estos hallazgos han llevado a una comprensión más profunda de la naturaleza y han abierto nuevas posibilidades para la investigación y la tecnología.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 3,
+        "texto": "La teoría cuántica también introduce el concepto de superposición y entrelazamiento, que permiten que las partículas estén en múltiples estados al mismo tiempo y que se comuniquen instantáneamente entre sí, independientemente de la distancia que las separe.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 4,
+        "texto": "La física cuántica es una rama de la física que se enfoca en el comportamiento de las partículas a nivel atómico y subatómico. Desarrollada en el siglo XX, esta disciplina ha revolucionado nuestra comprensión del universo y ha llevado a innovaciones tecnológicas como la computación cuántica y los dispositivos de almacenamiento de datos.",
+        "tema_real": "Física cuántica para principiantes"
+      },
+      {
+        "id": 5,
+        "texto": "La ética en la IA también se relaciona con la cuestión de la autoría y la responsabilidad. ¿Quién es responsable de las decisiones tomadas por un sistema de IA? ¿Es el desarrollador, el dueño del sistema o alguien más?",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 6,
+        "texto": "La IA puede ser utilizada para mejorar la vida de las personas, pero también puede ser utilizada para fines maliciosos, como la creación de armas de destrucción masiva o la manipulación de la opinión pública. Es importante desarrollar normas y regulaciones para prevenir el uso indebido de la IA.",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 7,
+        "texto": "La ética en la IA se refiere a la consideración de los impactos morales y sociales de la creación y uso de sistemas de IA. Esto incluye la protección de la privacidad, la prevención de sesgos y la garantía de que los sistemas de IA sean responsables y transparentes.",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 8,
+        "texto": "La creciente dependencia de la IA en nuestra vida diaria plantea la pregunta de si estamos en el camino correcto. ¿Estamos creando una sociedad donde la IA sea la que tome decisiones importantes, o estamos creando una sociedad donde la IA sea una herramienta para mejorar la vida de las personas?",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 9,
+        "texto": "La cocina italiana es famosa por sus platos sencillos pero sabrosos. Una de las recetas más populares es la pasta carbonara, que se hace con espaguetis, bacon o panceta, huevos y queso parmesano. Esta receta es fácil de preparar y es perfecta para un domingo por la tarde.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 10,
+        "texto": "La cocina italiana también tiene un lado dulce, con recetas como el tiramisù. Este postre se hace con café, mascarpone y chocolate, y se cubre con cacao en polvo. El tiramisù es un postre que se come en todo el mundo y es perfecto para terminar una cena italiana.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 11,
+        "texto": "Otra receta clásica de la cocina italiana es la pizza margherita. Se hace con harina de trigo, agua, sal y levadura, y se cubre con tomate, mozzarella y hierbas frescas. La pizza margherita es un plato que se come en todo el mundo y es ideal para una cena rápida.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 12,
+        "texto": "La cocina italiana también es famosa por sus platos de carne, como el osso buco. Este plato se hace con cordero, zanahorias, apio y vino blanco, y se cocina lentamente hasta que la carne está tierna. El osso buco es un plato que se come en familia y es ideal para un fin de semana.",
+        "tema_real": "Recetas de cocina italiana"
+      }
+    ],
+    "num_elementos": 13,
+    "temas_presentes": [
+      "Estrategias de inversión financiera",
+      "Física cuántica para principiantes",
+      "Inteligencia Artificial y ética",
+      "Recetas de cocina italiana"
+    ],
+    "cortes_ground_truth": [
+      1,
+      4,
+      8
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 1
+      },
+      {
+        "inicio": 2,
+        "fin": 4
+      },
+      {
+        "inicio": 5,
+        "fin": 8
+      },
+      {
+        "inicio": 9,
+        "fin": 12
+      }
+    ],
+    "id": "inst_007"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "La arquitectura moderna en ciudades busca equilibrar la funcionalidad y la estética. Incorpora elementos innovadores como la iluminación eficiente, materiales sostenibles y diseños que fomentan la interacción social. Sin embargo, a menudo se critica por priorizar el estilo sobre la consideración del entorno y la comunidad.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 1,
+        "texto": "La arquitectura moderna también debe abordar los desafíos de la vivienda urbana, como la escasez de espacios y la congestión. Los diseñadores buscan soluciones creativas que optimicen el uso del espacio y promuevan la calidad de vida de los residentes.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 2,
+        "texto": "Una de las grandes innovaciones en la industria de los videojuegos fue la introducción de la consola de videojuegos. La primera consola de videojuegos, la Magnavox Odyssey, se lanzó en 1972 y permitió a los jugadores experimentar juegos de alta calidad en sus propias casas.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 3,
+        "texto": "En la actualidad, la industria de los videojuegos se encuentra en una era de transición hacia la era de los juegos en la nube y la jugabilidad en línea. Los juegos en la nube permiten a los jugadores acceder a una amplia variedad de títulos sin necesidad de instalarlos en sus dispositivos, y la jugabilidad en línea ha permitido a los desarrolladores crear experiencias de juego más sociales y compartidas.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 4,
+        "texto": "La adopción de la tecnología de la realidad virtual (RV) y la realidad aumentada (RA) en la industria de los videojuegos ha sido un paso importante en la evolución de la experiencia de juego. Estas tecnologías permiten a los jugadores sumergirse en mundos virtuales más inmersivos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 5,
+        "texto": "La receta de lasaña es otra clásica de la cocina italiana. Se hace con capas de pasta, carne y queso, y se cocina en el horno hasta que está dorada y crujiente. La lasaña es un plato que se come en todo el mundo y es perfecto para una cena especial.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 6,
+        "texto": "La cocina italiana también es famosa por sus platos de carne, como el osso buco. Este plato se hace con cordero, zanahorias, apio y vino blanco, y se cocina lentamente hasta que la carne está tierna. El osso buco es un plato que se come en familia y es ideal para un fin de semana.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 7,
+        "texto": "La cocina italiana es famosa por sus platos sencillos pero sabrosos. Una de las recetas más populares es la pasta carbonara, que se hace con espaguetis, bacon o panceta, huevos y queso parmesano. Esta receta es fácil de preparar y es perfecta para un domingo por la tarde.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 8,
+        "texto": "Otra receta clásica de la cocina italiana es la pizza margherita. Se hace con harina de trigo, agua, sal y levadura, y se cubre con tomate, mozzarella y hierbas frescas. La pizza margherita es un plato que se come en todo el mundo y es ideal para una cena rápida.",
+        "tema_real": "Recetas de cocina italiana"
+      },
+      {
+        "id": 9,
+        "texto": "El Imperio Romano Oriental, también conocido como el Imperio Bizantino, se estableció en el siglo IV d.C. después de la división del imperio en dos mitades. El Imperio Oriental sobrevivió durante más de mil años y se convirtió en el Imperio de Bizancio, que jugó un papel importante en la historia de la civilización occidental.",
+        "tema_real": "Historia del Imperio Romano"
+      },
+      {
+        "id": 10,
+        "texto": "El Imperio Romano experimentó un período de declive y fragmentación en el siglo III d.C., debido a una combinación de factores como guerras civiles, invasiones bárbaras y problemas económicos. A medida que el poder central se debilitaba, se formaron varios reinos y dinastías que disputaron el control de las tierras romanas.",
+        "tema_real": "Historia del Imperio Romano"
+      }
+    ],
+    "num_elementos": 11,
+    "temas_presentes": [
+      "Arquitectura moderna en ciudades",
+      "Evolución de los videojuegos",
+      "Recetas de cocina italiana",
+      "Historia del Imperio Romano"
+    ],
+    "cortes_ground_truth": [
+      1,
+      4,
+      8
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 1
+      },
+      {
+        "inicio": 2,
+        "fin": 4
+      },
+      {
+        "inicio": 5,
+        "fin": 8
+      },
+      {
+        "inicio": 9,
+        "fin": 10
+      }
+    ],
+    "id": "inst_008"
+  },
+  {
+    "elementos": [
+      {
+        "id": 0,
+        "texto": "La República Romana se estableció en el siglo III a.C. después de la muerte del último rey Romano y se caracterizó por la existencia de una asamblea de ciudadanos elegidos para gobernar el estado. Durante este período, Roma experimentó un rápido crecimiento y se convirtió en una potencia militar y económica dominante en el Mediterráneo.",
+        "tema_real": "Historia del Imperio Romano"
+      },
+      {
+        "id": 1,
+        "texto": "El Imperio Romano se originó en la península itálica alrededor del siglo VIII a.C. y se expandió rápidamente mediante conquistas militares y alianzas políticas. Su primer gran imperio se estableció en el siglo III a.C., cuando el rey Romanos conquistó la península itálica y luego se expandió a través de la región del Mediterráneo.",
+        "tema_real": "Historia del Imperio Romano"
+      },
+      {
+        "id": 2,
+        "texto": "A medida que las ciudades crecen y se vuelven más complejas, la arquitectura moderna debe adaptarse para satisfacer las necesidades cambiantes de sus habitantes. Esto implica innovar y experimentar con nuevas formas de construir y diseñar espacios públicos y privados.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 3,
+        "texto": "La arquitectura moderna también debe abordar los desafíos de la vivienda urbana, como la escasez de espacios y la congestión. Los diseñadores buscan soluciones creativas que optimicen el uso del espacio y promuevan la calidad de vida de los residentes.",
+        "tema_real": "Arquitectura moderna en ciudades"
+      },
+      {
+        "id": 4,
+        "texto": "La creciente dependencia de la IA en nuestra vida diaria plantea la pregunta de si estamos en el camino correcto. ¿Estamos creando una sociedad donde la IA sea la que tome decisiones importantes, o estamos creando una sociedad donde la IA sea una herramienta para mejorar la vida de las personas?",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 5,
+        "texto": "La IA puede ser utilizada para mejorar la vida de las personas, pero también puede ser utilizada para fines maliciosos, como la creación de armas de destrucción masiva o la manipulación de la opinión pública. Es importante desarrollar normas y regulaciones para prevenir el uso indebido de la IA.",
+        "tema_real": "Inteligencia Artificial y ética"
+      },
+      {
+        "id": 6,
+        "texto": "Una de las grandes innovaciones en la industria de los videojuegos fue la introducción de la consola de videojuegos. La primera consola de videojuegos, la Magnavox Odyssey, se lanzó en 1972 y permitió a los jugadores experimentar juegos de alta calidad en sus propias casas.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 7,
+        "texto": "La adopción de la tecnología de la realidad virtual (RV) y la realidad aumentada (RA) en la industria de los videojuegos ha sido un paso importante en la evolución de la experiencia de juego. Estas tecnologías permiten a los jugadores sumergirse en mundos virtuales más inmersivos.",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 8,
+        "texto": "La llegada de las consolas de sexta generación, como la Sony PlayStation y la Nintendo 64, marcó un punto de inflexión en la historia de los videojuegos. Estas consolas permitieron a los desarrolladores crear juegos con gráficos 3D y sonido surround",
+        "tema_real": "Evolución de los videojuegos"
+      },
+      {
+        "id": 9,
+        "texto": "En la actualidad, la industria de los videojuegos se encuentra en una era de transición hacia la era de los juegos en la nube y la jugabilidad en línea. Los juegos en la nube permiten a los jugadores acceder a una amplia variedad de títulos sin necesidad de instalarlos en sus dispositivos, y la jugabilidad en línea ha permitido a los desarrolladores crear experiencias de juego más sociales y compartidas.",
+        "tema_real": "Evolución de los videojuegos"
+      }
+    ],
+    "num_elementos": 10,
+    "temas_presentes": [
+      "Historia del Imperio Romano",
+      "Arquitectura moderna en ciudades",
+      "Inteligencia Artificial y ética",
+      "Evolución de los videojuegos"
+    ],
+    "cortes_ground_truth": [
+      1,
+      3,
+      5
+    ],
+    "segmentos_ground_truth": [
+      {
+        "inicio": 0,
+        "fin": 1
+      },
+      {
+        "inicio": 2,
+        "fin": 3
+      },
+      {
+        "inicio": 4,
+        "fin": 5
+      },
+      {
+        "inicio": 6,
+        "fin": 9
+      }
+    ],
+    "id": "inst_009"
+  }
+]
